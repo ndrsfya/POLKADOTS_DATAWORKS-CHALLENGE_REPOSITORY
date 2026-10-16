@@ -1,0 +1,4 @@
+Best model by validation RMSE: PCA + Poly2 Ridge
+Validation RMSE: 40833.99162393
+Features were summarized from the cleaned 29-column grid-cell case files.
+Targets are historical cumulative production through 2008 only.
